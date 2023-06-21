@@ -1,1 +1,1 @@
-# Blogging-Application
+# daily-journal
