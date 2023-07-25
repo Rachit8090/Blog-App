@@ -23,3 +23,7 @@
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
+![recentpic](https://github.com/Rachit8090/Blog-App/assets/66528506/4aa3e06a-2692-475a-9919-431341885a97)
+
+
+
